@@ -17,6 +17,7 @@
 
 --Задание 2: Выбрать авторов, название книг и их цену из таблицы book
 --Запрос:
-SELECT author, title, price FROM book
+SELECT author, title, price
+FROM book
 ;
 
