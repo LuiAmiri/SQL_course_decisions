@@ -19,5 +19,5 @@
 --Запрос:
   SELECT author, title, price
   FROM book
-;
+  ;
 
