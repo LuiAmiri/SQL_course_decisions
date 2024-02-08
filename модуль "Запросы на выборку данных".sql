@@ -118,4 +118,3 @@
   WHERE YEAR(date_first) = 2020 AND MONTHNAME(date_first) IN ('february', 'march')
   ORDER BY name, Сумма DESC
   ;
-
